@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="UploadMailingListContainer" type="TypeScript" />
       <mapping pattern="basicInformationSaga" type="TypeScript" />
     </extensionMap>
   </component>
